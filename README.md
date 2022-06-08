@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledjolleshaj&label=Profile%20views&color=0e75b6&style=flat" alt="ledjolleshaj" /> </p>
 
-- 🌱 I’m currently learning **VueJs and postgress**
+- 🌱 I’m currently learning **VueJs and PostgreSQL**
 
 - 💬 Ask me about **anything**
 
