@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=235&section=header&text=Ledjo%20Lleshaj&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm Ledjo</h1>
-<h3 align="center">A passionate CompSci student at University of Verona</h3>
+<h3 align="center">A passionate Master's Student in Computer Science and Engineering at University of Verona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledjolleshaj&label=Profile%20views&color=0e75b6&style=flat" alt="ledjolleshaj" /> </p>
 
