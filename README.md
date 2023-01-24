@@ -23,8 +23,8 @@
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="209px" width ="400px" src="https://github-readme-stats.sigma-five.vercel.app/api?username=ledjolleshaj&show_icons=true&theme=highcontrast" />
-  <img height="205px" width ="400px" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=ledjolleshaj&hide=html&layout=compact&theme=highcontrast" />
+  <img height="209px" width ="400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledjolleshaj&show_icons=true&theme=highcontrast" />
+  <img height="205px" width ="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ledjolleshaj&hide=html&layout=compact&theme=highcontrast" />
   
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
