@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledjolleshaj&label=Profile%20views&color=0e75b6&style=flat" alt="ledjolleshaj" /> </p>
 
-- 🌱 I’m currently learning **about Advanced Algorithms**
+- 🌱 I’m currently learning **about Advanced Algorithms in AI**
 
 - 💬 Ask me about **anything**
 
