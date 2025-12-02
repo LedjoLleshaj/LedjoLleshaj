@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=235&section=header&text=Ledjo%20Lleshaj&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm Ledjo</h1>
-<h3 align="center">Graduated with a Master’s degree in Computer Science and Engineering from the University of Verona./h3>
+<h3 align="center">Graduated with a Master’s degree in Computer Science and Engineering from the University of Verona. </h3>
 
 - 💬 Ask me about **anything**
 
