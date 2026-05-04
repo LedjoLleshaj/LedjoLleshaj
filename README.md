@@ -72,10 +72,11 @@ Lately I've been exploring the **AI/ML engineering** space — bridging traditio
 
 ## 🚀 Featured Projects
 
-| Project                                                                                   | Description                                                                                     | Stack               |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------- |
-| [**Vue Job Search**](https://github.com/LedjoLleshaj/Vue-job-search)                      | Front-end for a workers & seasonal job finding platform with search and filtering               | TypeScript · Vue.js |
-| [**System Calls — OS**](https://github.com/LedjoLleshaj/System-calls-C-Operating-systems) | Client–Server application built exclusively with Linux system calls in C, no standard libraries | C · Linux · POSIX   |
+| Project                                                                                   | Description                                                                                                                                                                            | Stack                                           |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [**Full-Stack ERP — Selita Fish**](https://github.com/LedjoLleshaj/Full-stack-ERP)        | End-to-end ERP system for a fish store business. REST API backend, relational data model, and a responsive SPA frontend — all fully containerised and orchestrated with Docker Compose | Python · Django · Angular · PostgreSQL · Docker |
+| [**Vue Job Search**](https://github.com/LedjoLleshaj/Vue-job-search)                      | Front-end for a workers & seasonal job finding platform with search and filtering                                                                                                      | TypeScript · Vue.js                             |
+| [**System Calls — OS**](https://github.com/LedjoLleshaj/System-calls-C-Operating-systems) | Client–Server application built exclusively with Linux system calls in C, no standard libraries                                                                                        | C · Linux · POSIX                               |
 
 > 🔎 Explore all **22 repositories** → [github.com/LedjoLleshaj](https://github.com/LedjoLleshaj?tab=repositories)
 
