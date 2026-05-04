@@ -1,26 +1,110 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=235&section=header&text=Ledjo%20Lleshaj&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ledjo%20Lleshaj&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=20)](https://github.com/LedjoLleshaj)
 
-<h1 align="center">Hi 👋, I'm Ledjo</h1>
-<h3 align="center">Graduated with a Master’s degree in Computer Science and Engineering from the University of Verona. </h3>
+<div align="center">
 
-- 💬 Ask me about **anything**
+### 🛰️ Venturing into the Infinite Unknown · Based in Verona, Italy
 
-- 📫 How to reach me **ledjolleshaj@yahoo.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ledjo--lleshaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ledjo-lleshaj)
+[![Email](https://img.shields.io/badge/Email-ledjolleshaj%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledjolleshaj@yahoo.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/ledjo-lleshaj" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ledjo-lleshaj" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools that i have used in the past:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" width="50" height="40"/> </a> <a href="https://www.selenium.dev/about/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/selenium.svg" alt="Selenium" width="50" height="40"/> </a> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/68/549/png-transparent-angular-logos-and-brands-line-filled-icon.png" alt="Angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="Docker" width="40" height="40"/> </a>
-</p>
+---
 
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="209px" width ="400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ledjolleshaj&show_icons=true&theme=highcontrast" />
-  <img height="205px" width ="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ledjolleshaj&hide=html&layout=compact&theme=highcontrast" />
-  
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
- </details>
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Engineering graduate** (M.Sc., University of Verona — **105/110**) with a strong passion for building robust, scalable backend systems and clean full-stack applications. I thrive when diving deep into system architecture, API design, and performance-oriented code.
+
+Lately I've been exploring the **AI/ML engineering** space — bridging traditional software engineering with modern AI tooling and intelligent systems. I'm always open to new opportunities where I can bring both depth and curiosity to a team.
+
+- 🎓 **M.Sc. Computer Science & Engineering** — University of Verona · 105/110
+- 🔭 Currently exploring **AI engineering, LLM integration & ML pipelines**
+- 💼 **Open to work** — Backend, Full-Stack, or AI-adjacent engineering roles
+- 🌍 Based in **Verona, Italy** · Available remotely or on-site
+- 📫 Reach me at **[ledjolleshaj@yahoo.com](mailto:ledjolleshaj@yahoo.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+<!-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) -->
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**Currently Learning**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                                   | Description                                                                                     | Stack               |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------- |
+| [**Vue Job Search**](https://github.com/LedjoLleshaj/Vue-job-search)                      | Front-end for a workers & seasonal job finding platform with search and filtering               | TypeScript · Vue.js |
+| [**System Calls — OS**](https://github.com/LedjoLleshaj/System-calls-C-Operating-systems) | Client–Server application built exclusively with Linux system calls in C, no standard libraries | C · Linux · POSIX   |
+
+> 🔎 Explore all **22 repositories** → [github.com/LedjoLleshaj](https://github.com/LedjoLleshaj?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ledjolleshaj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/LedjoLleshaj)
+&nbsp;
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ledjolleshaj&hide=html&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LedjoLleshaj)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LedjoLleshaj&theme=tokyonight&hide_border=true)](https://github.com/LedjoLleshaj)
+
+</div>
+
+---
+
+## 🌐 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+<div align="center">
+
+_"Programming is like being able to do magic."_
+
+![Profile Views](https://komarev.com/ghpvc/?username=LedjoLleshaj&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
