@@ -4,7 +4,7 @@
 
 ### Backend engineer — Java/Spring & Python/Django — building scalable APIs, now working in LLM & data tooling · Verona, Italy 🇮🇹
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ledjo--lleshaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ledjo-lleshaj) [![Email](https://img.shields.io/badge/Email-ledjolleshaj%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledjolleshaj@yahoo.com) [![CV](https://img.shields.io/badge/Résumé-PDF-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/LedjoLleshaj/CV) [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ledjo--lleshaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ledjo-lleshaj) [![Email](https://img.shields.io/badge/Email-ledjolleshaj%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ledjolleshaj@yahoo.com) [![CV](https://img.shields.io/badge/Résumé-PDF-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/LedjoLleshaj/CV/blob/main/cv.pdf) [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
 </div>
 
