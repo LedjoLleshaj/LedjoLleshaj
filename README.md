@@ -19,7 +19,7 @@ Most recently I've moved into **LLM & data tooling** — I contribute to [**Data
 - 🛠️ Strongest in **backend / API design** — Spring Boot, Django, PostgreSQL, Docker
 - 🤖 Building in the **LLM / dataset-generation / RAG** space
 - 💼 **Open to work** — Backend, Full-Stack, or AI-adjacent engineering roles (remote or on-site)
-- 📫 **[ledjolleshaj@yahoo.com](mailto:ledjolleshaj@yahoo.com)** · 📄 [Résumé](https://github.com/LedjoLleshaj/CV)
+- 📫 **[ledjolleshaj@yahoo.com](mailto:ledjolleshaj@yahoo.com)** · 📄 [Résumé](https://github.com/LedjoLleshaj/CV/blob/main/cv.pdf)
 
 ---
 
@@ -48,11 +48,11 @@ Most recently I've moved into **LLM & data tooling** — I contribute to [**Data
 <!-- Pin these three repos in this order via GitHub → your profile → "Customize your pins":
      1. DataGenFlow  2. Full-stack-ERP  3. hospitium -->
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**DataGenFlow**](https://github.com/LedjoLleshaj/DataGenFlow) | Generate & validate datasets from seeds/documents using LLMs. Visual drag-and-drop pipelines, pluggable custom blocks (generators / validators / metrics), full execution tracing, JSONL export. | Python · LLM APIs |
-| [**Full-Stack ERP — Selita Fish**](https://github.com/LedjoLleshaj/Full-stack-ERP) | End-to-end ERP for a fish-store business: REST API backend, relational data model, responsive SPA frontend — fully containerised with Docker Compose. | Django · Angular · PostgreSQL · Docker |
-| [**hospitium**](https://github.com/LedjoLleshaj/hospitium) | Clinic management system — patient records and appointment scheduling, built on Spring Boot. | Java · Spring Boot |
+| Project                                                                            | What it does                                                                                                                                                                                     | Stack                                  |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| [**DataGenFlow**](https://github.com/LedjoLleshaj/DataGenFlow)                     | Generate & validate datasets from seeds/documents using LLMs. Visual drag-and-drop pipelines, pluggable custom blocks (generators / validators / metrics), full execution tracing, JSONL export. | Python · LLM APIs                      |
+| [**Full-Stack ERP — Selita Fish**](https://github.com/LedjoLleshaj/Full-stack-ERP) | End-to-end ERP for a fish-store business: REST API backend, relational data model, responsive SPA frontend — fully containerised with Docker Compose.                                            | Django · Angular · PostgreSQL · Docker |
+| [**hospitium**](https://github.com/LedjoLleshaj/hospitium)                         | Clinic management system — patient records and appointment scheduling, built on Spring Boot.                                                                                                     | Java · Spring Boot                     |
 
 > 🔎 More on the [repositories tab →](https://github.com/LedjoLleshaj?tab=repositories)
 
