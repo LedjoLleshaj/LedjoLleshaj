@@ -1,5 +1,3 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ledjo%20Lleshaj&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20LLM%20%26%20Data%20Tooling&descAlignY=60&descSize=20)](https://github.com/LedjoLleshaj)
-
 <div align="center">
 
 ### Backend engineer — Java/Spring & Python/Django — building scalable APIs, now working in LLM & data tooling · Verona, Italy 🇮🇹
