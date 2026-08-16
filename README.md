@@ -60,8 +60,8 @@ Most recently I've moved into **LLM & data tooling** — I contribute to [**Data
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ledjolleshaj&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/LedjoLleshaj)
+[![GitHub Stats](https://github-readme-stats-ten-peach-58.vercel.app/api?username=ledjolleshaj&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/LedjoLleshaj)
 &nbsp;
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ledjolleshaj&hide=html&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LedjoLleshaj)
+[![Top Languages](https://github-readme-stats-ten-peach-58.vercel.app/api/top-langs/?username=ledjolleshaj&hide=html&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LedjoLleshaj)
 
 </div>
