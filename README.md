@@ -12,7 +12,7 @@
 
 Backend-focused software engineer (M.Sc. Computer Science & Engineering, University of Verona — 105/110). I build REST APIs and full-stack apps with **Java/Spring Boot** and **Python/Django**, ship them containerised with **Docker**, and back them with **PostgreSQL**.
 
-Most recently I've moved into **LLM & data tooling** — I contribute to [**DataGenFlow**](https://github.com/LedjoLleshaj/DataGenFlow), an open-source project that generates and validates datasets from seeds/documents using LLMs, with visual pipelines, pluggable custom blocks, and full execution tracing.
+Most recently I've moved into **LLM & data tooling**. I built [**eAlbania-bot**](https://github.com/LedjoLleshaj/eAlbania-bot) — a RAG assistant that answers questions in Albanian about **1,081 e-Albania public services**, with hybrid retrieval (dense + BM25 + reranking, MRR@10 **0.898**) and a citation contract so every claim links back to the official page. I also contribute to [**DataGenFlow**](https://github.com/LedjoLleshaj/DataGenFlow), an open-source project that generates and validates datasets from seeds/documents using LLMs, with visual pipelines, pluggable custom blocks, and full execution tracing.
 
 - 🛠️ Strongest in **backend / API design** — Spring Boot, Django, PostgreSQL, Docker
 - 🤖 Building in the **LLM / dataset-generation / RAG** space
@@ -44,10 +44,11 @@ Most recently I've moved into **LLM & data tooling** — I contribute to [**Data
 ## 🚀 Featured Projects
 
 <!-- Pin these three repos in this order via GitHub → your profile → "Customize your pins":
-     1. DataGenFlow  2. Full-stack-ERP  3. hospitium -->
+     1. eAlbania-bot  2. DataGenFlow  3. Full-stack-ERP  4. hospitium -->
 
 | Project                                                                            | What it does                                                                                                                                                                                     | Stack                                  |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| [**eAlbania-bot**](https://github.com/LedjoLleshaj/eAlbania-bot)                   | Albanian-language RAG assistant over **1,081 e-Albania public services**. Hybrid retrieval (Chroma dense + BM25 + cross-encoder rerank, MRR@10 0.898), cited answers linked to the official site, query rewriting & out-of-scope detection, 136-question eval suite judged by an LLM. | Python · Ollama/bge-m3 · Chroma · Claude · Gradio |
 | [**DataGenFlow**](https://github.com/LedjoLleshaj/DataGenFlow)                     | Generate & validate datasets from seeds/documents using LLMs. Visual drag-and-drop pipelines, pluggable custom blocks (generators / validators / metrics), full execution tracing, JSONL export. | Python · LLM APIs                      |
 | [**Full-Stack ERP — Selita Fish**](https://github.com/LedjoLleshaj/Full-stack-ERP) | End-to-end ERP for a fish-store business: REST API backend, relational data model, responsive SPA frontend — fully containerised with Docker Compose.                                            | Django · Angular · PostgreSQL · Docker |
 | [**hospitium**](https://github.com/LedjoLleshaj/hospitium)                         | Clinic management system — patient records and appointment scheduling, built on Spring Boot.                                                                                                     | Java · Spring Boot                     |
